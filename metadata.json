@@ -1,0 +1,6 @@
+{
+  "name": "L2TP Connect Pro - Play Store VPN Client",
+  "description": "Android Play Store style L2TP/IPsec VPN client mobile app with pre-shared keys, MikroTik support, live ping, speed test, and traffic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
